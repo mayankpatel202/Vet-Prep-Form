@@ -6,7 +6,7 @@
 # A user-created config.yaml will have priority over the auto-generated one.
 
 Standards:
-- Title: Vet Student Info Form
+- Title: Vet Prep Student Info Form
   UID: df1c82254c9f7eb1b0f8e2ac8f952ceb
   Description: Complete this form ASAP (Be sure to complete prior to the first day of class)
   SuccessCriteria:
