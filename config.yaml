@@ -6,12 +6,12 @@
 # A user-created config.yaml will have priority over the auto-generated one.
 
 Standards:
-- Title: VetPREPFORM
+- Title: Vet Student Info Form
   UID: df1c82254c9f7eb1b0f8e2ac8f952ceb
-  Description: VetPREPFORM
+  Description: Complete this form ASAP (Be sure to complete prior to the first day of class)
   SuccessCriteria:
   - success criteria
   ContentFiles:
-  - Type: Lesson
+  - Type: Survey
     Path: /VetPREPFORM/vet_prep_form.md
     UID: 87ce54f104788c4fbfa5a36cbd63ca15
