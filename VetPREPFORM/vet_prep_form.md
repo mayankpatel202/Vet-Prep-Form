@@ -559,10 +559,6 @@ Challenges
 
 ##### !question
 
-[markdown, your question]
-
-##### !question
-
 What can we do to better serve your needs?
 
 ##### !end-question
