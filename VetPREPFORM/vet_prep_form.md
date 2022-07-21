@@ -871,7 +871,6 @@ I have interacted with the following Hack Reactor individuals (Check any and all
 ##### !options
 
 * Enrollment Advisor
-* Workshop Instructor
 * Former Hack Reactor Graduate
 * I have not interacted with any Hack Reactor staff or graduates
 * Other
