@@ -158,7 +158,6 @@ Which timezone are you planning on targeting for your Hack Reactor immersive exp
 * Remote Full-Time (Central) Immersive
 * Remote Full-Time (Eastern) Immersive
 * Remote Full-Time (Pacific) Immersive
-* Remote Part-Time (Pacific) Immersive
 
 ##### !end-options
 
