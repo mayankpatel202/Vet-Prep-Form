@@ -14,17 +14,17 @@
 
 ##### !question
 
-Are you planning to join a Hack Reactor immersive? if so, when?
+Are you planning to join a Hack Reactor coding bootcamp? if so, when?
 
 ##### !end-question
 
 ##### !options
 
 * I am not planning to join a Hack Reactor immersive program.
-* I am hoping to join the next upcoming immersive and preparing for my TAA now.
+* I am hoping to join the next upcoming bootcamp start date and preparing for my TAA now.
 * I would like to join Hack Reactor in the next 3-6 months.
 * I would like to join Hack Reactor in 6-12 months.
-* I am curious about coding, but I'm not sure when I'll join the Hack Reactor immersive, but I do want to join.
+* I am curious about coding, but I'm not sure when I'll join the Hack Reactor bootcamp, but I do want to join.
 
 ##### !end-options
 
@@ -155,8 +155,8 @@ Which timezone are you planning on targeting for your Hack Reactor immersive exp
 
 ##### !options
 
-* Remote Full-Time (Eastern) Immersive
-* Remote Full-Time (Pacific) Immersive
+* Remote Full-Time (Eastern)
+* Remote Full-Time (Pacific)
 
 ##### !end-options
 
@@ -219,7 +219,7 @@ What prior experience do you have with JavaScript (JS) coding?
 
 ##### !question
 
-How many times have you taken the TAA for admission to the immersive?
+How many times have you taken the TAA for admission?
 
 ##### !end-question
 
@@ -921,7 +921,7 @@ If Applicable
 
 ##### !question
 
-Have you submitted your application to apply to our software engineering immersive?
+Have you submitted your application to apply to our software engineering bootcamp?
 
 ##### !end-question
 
@@ -950,7 +950,7 @@ Have you submitted your application to apply to our software engineering immersi
 
 ##### !question
 
-If you get accepted into the immersive, what would prevent you from enrolling? 
+If you get accepted into the bootcamp, what would prevent you from enrolling? 
 
 ##### !end-question
 
